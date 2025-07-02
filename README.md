@@ -1,46 +1,52 @@
-# Getting Started with Create React App
+# React + TypeScript To-Do List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto de lista de tarefas simples, desenvolvido com React e TypeScript, com foco em componentização, manipulação de estado e boas práticas de código.
 
-## Available Scripts
+🚀 **Este projeto foi baseado na API que desenvolvi anteriormente:** [API CRUD Login](https://github.com/Pedro-Chaves/api_crud_login).
 
-In the project directory, you can run:
+## 🚀 Tecnologias Utilizadas
 
-### `npm start`
+- **Vue.js** (Framework JavaScript)
+- **Vue Router** (Gerenciamento de rotas)
+- **Axios** (Requisições HTTP)
+- **Bulma CSS** (Estilização)
+## 🛠 Tecnologias Utilizadas
+- **React**
+- **TypeScript**
+- **CSS Modules**
+- **Ícones do Bootstrap Icons**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📦 Instalação e Configuração
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Clone o repositório:
 
-### `npm test`
+```sh
+git clone git@github.com:Pedro-Chaves/todo_react.git
+cd todo_react
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Instale as dependências do projeto:
 
-### `npm run build`
+```sh
+npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ▶️ Executando o Projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```sh
+npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📌💡 Melhorias Futuras
+ - Salvar tarefas no LocalStorage
+ - Filtros de busca e ordenação
+ - Responsividade aprimorada para mobile
+ - Implementação de testes com Jest/React Testing Library
 
-### `npm run eject`
+## 📜 Licença
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Este projeto está licenciado sob a **MIT License**.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+💡 Desenvolvido com ❤️ por Pedro Henrique Moreira Chaves.
