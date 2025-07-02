@@ -2,14 +2,6 @@
 
 Projeto de lista de tarefas simples, desenvolvido com React e TypeScript, com foco em componentização, manipulação de estado e boas práticas de código.
 
-🚀 **Este projeto foi baseado na API que desenvolvi anteriormente:** [API CRUD Login](https://github.com/Pedro-Chaves/api_crud_login).
-
-## 🚀 Tecnologias Utilizadas
-
-- **Vue.js** (Framework JavaScript)
-- **Vue Router** (Gerenciamento de rotas)
-- **Axios** (Requisições HTTP)
-- **Bulma CSS** (Estilização)
 ## 🛠 Tecnologias Utilizadas
 - **React**
 - **TypeScript**
